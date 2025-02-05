@@ -29,6 +29,8 @@
  python gui_word_counter.py
  A window will open. Enter your text in the provided text box.
  Click the "Count Words" button to see the word count.
+# Screenshoot
+ https://github.com/sonujaiswal450/Word_counter/blob/main/Screenshot%202025-02-05%20105006.png
 # Contributing
  Contributions are welcome! If you'd like to contribute, please follow these steps:
 
