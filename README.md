@@ -30,7 +30,7 @@
  A window will open. Enter your text in the provided text box.
  Click the "Count Words" button to see the word count.
 # Screenshoot
-![Word counter UI]()
+![Word counter UI](Screenshot 2025-02-05 105006.png)
 # Contributing
  Contributions are welcome! If you'd like to contribute, please follow these steps:
 
